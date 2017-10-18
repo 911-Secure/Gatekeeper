@@ -1,0 +1,12 @@
+{
+  "softPhones": {
+    "win32": [
+      "onexcui.exe",
+      "Avaya one-X Communicator Suite.exe",
+      "notepad.exe"
+    ],
+    "darwin": [
+      "textedit"
+    ]
+  }
+}
