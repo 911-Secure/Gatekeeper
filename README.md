@@ -3,6 +3,10 @@ The public release point for Sentry Gatekeeper.
 
 ## Release Notes
 
+### 1.0.0
+- **Public Release**: The first public release of Sentry Gatekeeper
+- Includes all bug fixes contained in prior beta releases
+
 ### 0.1.18
 - Changed the landing page to the Set Address page
 - Updated the workflow to be Set Name and Phone Number -> Set Address -> View Map
