@@ -3,6 +3,10 @@ The public release point for Sentry Gatekeeper.
 
 ## Release Notes
 
+### 0.1.18
+- Changed the landing page to the Set Address page
+- Updated the workflow to be Set Name and Phone Number -> Set Address -> View Map
+
 ### 0.1.17
 - Minor UI changes as we prepare for public release
 
