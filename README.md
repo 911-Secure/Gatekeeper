@@ -10,7 +10,7 @@ The public release point for Sentry Gatekeeper.
 - In rare circumstances, typing in a full address for a new or updated location does not invoke automatic validation.  In such a case, resizing the window (even slightly) resolves the issue and validation occurs.
 
 #### Revisions
-- Prevent multiple instances of Sentry Gatekeeper from starting up.  Subsequent attempts to start Gatekeeper will bring users to the Locations page in the currently running Gatekeeper.
+- Added code to prevent multiple instances of Sentry Gatekeeper from starting up.  Subsequent attempts to start Gatekeeper will bring users to the Locations page in the currently running Gatekeeper.
 
 ### 1.2.0
 - **Public Release**: The first public release of Sentry Gatekeeper
