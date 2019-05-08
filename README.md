@@ -8,7 +8,7 @@ The public release point for Sentry Gatekeeper.
 
 #### Revisions
 
-- Gatekeeper no longer prompts you to set your location upon a restart if you haven't changed networks / locations.  It will do this one last time if running an earlier version.
+- Gatekeeper no longer prompts users to set their location upon a restart if they haven't changed networks / locations.  It will do this one last time if running an earlier version.
 - Updated the way addresses are stored in Gatekeeper.  If an earlier version was run, its recommended you delete all current saved addresses and then re-add them.
 - Improved UI / workflow to make it more intuitive.  Starting always from Locations, users can either click "Find Me on Map" if in a good place with surrounding WiFi antennas for geolocation, or else they can click the + sign in the bottom left corner to add a new address manually.
 - There is currently a 5 minute grace period before displaying a hard “Internet Connection Required” message on the screen.  A small popup message is first displayed, asking the user to check their internet if they clicked on Find Me on Map and no internet is available.
