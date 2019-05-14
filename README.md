@@ -8,6 +8,7 @@ The public release point for Sentry Gatekeeper.
 
 #### Revisions
 
+- First public version of Gatekeeper for macOS
 - Improved network detection (WiFi, LAN, airplne mode, etc.)
 - Fixed an issue where some screens appeared blank (white) on startup
 
