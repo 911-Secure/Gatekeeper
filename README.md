@@ -3,6 +3,14 @@ The public release point for Sentry Gatekeeper.
 
 ## Release Notes
 
+### 1.2.24
+- **Public Release**
+
+#### Revisions
+
+- Improved network detection (WiFi, LAN, airplne mode, etc.)
+- Fixed an issue where some screens appeared blank (white) on startup
+
 ### 1.2.23
 - **Public Release**
 
