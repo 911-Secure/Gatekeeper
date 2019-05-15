@@ -3,6 +3,16 @@ The public release point for Sentry Gatekeeper.
 
 ## Release Notes
 
+### 1.2.25
+- **Public Release**
+
+#### Revisions
+
+- Added enhanced logging
+- Updated Network Status page with additional URL needing to be whitelisted
+- Added code to send to Internet Connection Required page if Google APIs cannot be reached
+- Added additional text to accuracy radius popup to prompt user to suggest refreshing WiFi connections
+
 ### 1.2.24
 - **Public Release**
 
