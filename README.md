@@ -8,7 +8,7 @@ The public release point for Sentry Gatekeeper.
 
 #### Known Issue
 
-- Currently, when Gatekeeper asks Windows for the list of local WiFi networks (for geolocation from Find Me on Map), only the user's own WiFi network may be returned if WiFi polling on Windows has been suspended. With just a single WiFI network, a large probability radius from Find Me on Map may be seen.  To improve results, first click on the WiFi symbol in the taskbar notification area.  Then, when more than just the user's own WiFi network is displayed, click on File -> Find Me on Map in Gatekeeper to receive improved results.  The next release of Gatekeeper will force a refresh from Windows of all local WiFI networks so this extra step will not be necessary.
+- Currently, when Gatekeeper asks Windows for the list of local WiFi networks (from clicking on Find Me on Map, using geolocation), only the user's own WiFi network may be returned if WiFi polling on Windows has been suspended. With just a single WiFI network, a large probability radius from Find Me on Map may be seen.  To improve results, first click on the WiFi symbol in the taskbar notification area.  Then, when more than just the user's own WiFi network is displayed, click on File -> Find Me on Map in Gatekeeper to receive improved results.  The next release of Gatekeeper will force a refresh from Windows of all local WiFI networks so this extra step will not be necessary.
 
 #### Revisions
 
