@@ -3,6 +3,15 @@ The public release point for Sentry Gatekeeper.
 
 ## Release Notes
 
+### 1.2.28
+- **Public Release**
+
+#### Revisions
+
+- Resolved the issue with the full list of local WiFi networks not always being returned
+- Cleaned up the UI in various places
+- Updated various pieces of informative text
+
 ### 1.2.25
 - **Public Release**
 
