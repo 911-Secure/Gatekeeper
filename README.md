@@ -3,7 +3,7 @@ The public release point for Sentry Gatekeeper.
 
 ## Release Notes
 
-### 1.2.28
+### 1.2.29
 - **Public Release**
 
 #### Revisions
