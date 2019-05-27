@@ -3,6 +3,14 @@ The public release point for Sentry Gatekeeper.
 
 ## Release Notes
 
+### 1.2.31
+- **Public Release**
+
+#### Revisions
+- WakeWLAN.dll now targets .net 4.5.2, not .netstandard 2.0 (which caused problems on some computers)
+- Users are alerted when Find Me on Map is used and the Wake WiFi could not be initialized
+- Gatekeeper now starts with an open window to insure notification icon context menu is properly populated
+
 ### 1.2.30
 - **Public Release**
 
