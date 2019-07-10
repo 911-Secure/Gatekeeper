@@ -7,6 +7,18 @@ The public release point for Sentry Gatekeeper.
 - **Public Release**
 
 #### Revisions
+
+- Fixed issue with the Map window's disclaimer interfering with the address on low resolution / high font scaling screens
+- When clicking on the 5-minute reminder message, the address list page now opens
+- Fixed issue with addresses sometimes not fully loading on startup and on network changes
+- Updated installer to allow user-specific or machine-specific installations
+- When a network change occurs, the user's ELIN entry in VPC is now deprovisioned
+- The Internet Connection Required screen now shows only with user interaction after a network drop
+
+### 1.2.32
+- **Public Release**
+
+#### Revisions
 - In some cases, users were seeing the Internet Connection Required Screen at startup (some for a split second, some prolonged).  This has been corrected.
 - Sometimes Gatekeeper would get hung up on loading the list of addresses.  This has been fixed.
 - The Find Me on Map functionality now properly waits for the entire list of local WiFi antennas to be returned by Windows.  Previously, the call was made asynchronously and not all antennas were being passed to Google for geolocation.  The button functionality can now take as long as 5 or 6 seconds to locate the user, but it is now guaranteed to be the most accurate it can possibly be.
