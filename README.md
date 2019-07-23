@@ -3,6 +3,13 @@ The public release point for Sentry Gatekeeper.
 
 ## Release Notes
 
+### 1.2.34
+- **Public Release**
+
+#### Revisions
+
+- Fixed issues with saving and reloading of Locations
+
 ### 1.2.33
 - **Public Release**
 
